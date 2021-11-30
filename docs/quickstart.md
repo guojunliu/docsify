@@ -1,8 +1,8 @@
 # Quick start
 
-It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
+It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.呜呜呜呜呜呜
 
-```bash
+```bashd'd'd'd
 npm i docsify-cli -g
 ```
 
